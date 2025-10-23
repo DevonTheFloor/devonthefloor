@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fdevonthefloor.github.io\u002F_nuxt\u002Fstatic\u002F1761245793",layout:"default",error:a,state:{},serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002Fdevonthefloor.github.io\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"6d28831a"}}}}(null,"\u002F"));
